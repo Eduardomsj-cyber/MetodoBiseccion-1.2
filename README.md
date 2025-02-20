@@ -1,2 +1,2 @@
 # MetodoBiseccion-1.2
-Analisis=El código implementa el método de bisección para encontrar la raíz de la ecuación e−x−x=0e^{-x} - x = 0
+El código implementa el método de bisección para encontrar la raíz de la ecuación e−x−x=0e^{-x} - x = 0 en el intervalo [0,1] con una tolerancia de 10−510^{-5}. Verifica que la función cambie de signo en el intervalo, luego divide iterativamente el segmento hasta que la diferencia entre los extremos sea menor que la tolerancia. Finalmente, devuelve una aproximación de la raíz y la imprime.
